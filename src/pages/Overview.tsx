@@ -26,7 +26,7 @@ const features = [
   { icon: ShieldCheckIcon, title: 'Enterprise Security', desc: 'SOC 2 compliant with role-based access control, audit logs, and data encryption. Built for regulated industries.' },
 ]
 
-export default function Home() {
+export default function Overview() {
   return (
     <>
       <section className="hero">
